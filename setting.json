@@ -1,0 +1,39 @@
+{
+	"Seti_SB_bright": true,
+	"Seti_bold_slctdtab_labels": true,
+	"Seti_red_label": true,
+	"Seti_red_tabclose": true,
+	"Seti_seablue_scrollbar": true,
+	"Seti_teal_statusbar": true,
+	"Seti_yellow_label": true,
+	"Seti_yellow_tab": true,
+	"always_show_minimap_viewport": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Colorsublime - Themes/Bittersweet.tmTheme",
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"mouse_wheel_tabswitch": true,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Seti_orig.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
+
